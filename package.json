@@ -1,0 +1,25 @@
+{
+    "name": "lain-dash",
+    "displayName": "Lain Dash",
+    "description": "A simple but nice looking theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Lain Dash",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Lain Dash-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/luiscassih/laindash.git"
+    }
+}
