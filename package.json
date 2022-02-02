@@ -3,6 +3,7 @@
     "displayName": "Lain Dash",
     "description": "A simple but nice looking theme",
     "version": "0.0.1",
+    "publisher": "lain",
     "engines": {
         "vscode": "^1.63.0"
     },
